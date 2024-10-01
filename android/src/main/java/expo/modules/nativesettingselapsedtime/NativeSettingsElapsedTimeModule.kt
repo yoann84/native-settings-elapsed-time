@@ -1,4 +1,4 @@
-package expo.modules.nativesettings
+package expo.modules.nativesettingselapsedtime
 
 import expo.modules.kotlin.modules.Module
 import expo.modules.kotlin.modules.ModuleDefinition
